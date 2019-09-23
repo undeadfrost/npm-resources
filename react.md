@@ -4,3 +4,4 @@
 | formik | https://github.com/jaredpalmer/formik | form表单封装(表单状态、验证、提交) |
 | react-select | https://github.com/JedWatson/react-select | select下拉单选多选组件，适用pc和mobile |
 | react-scroll | https://www.npmjs.com/package/react-scroll | 滚动组件，兼容性较好，同时支持pc和mobile |
+| react-slick | https://github.com/akiran/react-slick | react轮播插件 antd在使用 |
