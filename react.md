@@ -6,4 +6,4 @@
 | react-scroll | https://www.npmjs.com/package/react-scroll | 滚动组件，兼容性较好，同时支持pc和mobile |
 | react-slick | https://github.com/akiran/react-slick | react轮播插件 antd在使用 |
 | react-dates | https://github.com/airbnb/react-dates | 日期选择插件 功能强大文档较多 |
-| react-datepicker | https://github.com/Hacker0x01/react-datepicker/ | 日期选择插件 |
+| react-datepicker | https://github.com/Hacker0x01/react-datepicker | 日期选择插件 |
